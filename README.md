@@ -1,7 +1,5 @@
 # Drunken-MAX4Live-
 
-<p align="center">Drunken-MAX4Live</p>
-
 <p align="center">
   <img src="https://github.com/Vdevelasco/Drunken-MAX4Live-/assets/24989959/56524aee-c782-48a4-aec4-9eb1c18db7c1" />
   
