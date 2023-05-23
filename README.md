@@ -7,17 +7,15 @@
 
 A random walk patch able to automate several parameters at the same time.
 
--Control on how fast it "walks"
+- Control on how fast it "walks"
 
--Different Step Sizes for more extreme/subtle modulation
+- Different Step Sizes for more extreme/subtle modulation
 
--A filter to smooth the signal
+- A filter to smooth the signal
 
--Offset and Scale for control purposes
+- Offset and Scale for control purposes
 
--Jitter (just for fun)
+- Jitter (just for fun)
 
 
-It should work on max 7 and older versions of ableton.
-
-Feedback is always appreciated!
+It should work on max 7 and older versions of ableton. Feedback is always appreciated!
