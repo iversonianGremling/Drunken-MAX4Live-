@@ -20,3 +20,5 @@ A random walk patch able to automate several parameters at the same time.
 
 
 It should work on max 7 and older versions of ableton. Feedback is always appreciated!
+
+(Oct 28 2018)
