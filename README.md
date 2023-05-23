@@ -22,3 +22,6 @@ A random walk patch able to automate several parameters at the same time.
 It should work on max 7 and older versions of ableton. Feedback is always appreciated!
 
 (Oct 28 2018)
+https://maxforlive.com/library/device/5050/drunken-random-walk 
+
+Total Downloads: 1047 (2023-05-23)
